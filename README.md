@@ -1,3 +1,2 @@
 # hello-world
-def print_hello(self):
-    print('Hello, World!')
+Here's 'Hello, World!' written with Python
