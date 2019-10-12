@@ -1,3 +1,4 @@
 # hello-world
 # Just another repository
-print('Hello, World!')
+def print_hello(self):
+    print('Hello, World!')
